@@ -60,7 +60,13 @@ Here are some ideas to get you started:
 <!--CONNECT WITH ME-->
 <section>
 	<h2>Connect with me 🤝</h2>
-	<a href="https://www.linkedin.com/in/michael-kwame-appiah/"><img src="https://raw.githubusercontent.com/escapingyouth/escapingyouth/main/Icons/linkedin.svg" alt=" Michael Appiah | LinkedIn" width="50px" height="50px"/></a>
+	<a href="https://www.linkedin.com/in/michael-kwame-appiah/" target ="_blank"><img src="https://raw.githubusercontent.com/escapingyouth/escapingyouth/main/Icons/linkedin.svg" alt=" Michael Appiah | LinkedIn" width="50px" height="50px"/></a>
+	<span>&nbsp;  </span>
+	<span>&nbsp;  </span>
+        <a href="https://twitter.com/_escapingyouth" target ="_blank"><img src="https://raw.githubusercontent.com/escapingyouth/escapingyouth/main/Icons/twitter.svg" alt=" Michael Appiah | Twitter" width="50px" height="50px"/></a>
+	<span>&nbsp;  </span>
+	<span>&nbsp;  </span>
+	<a href="https://www.reddit.com/user/escaping_youth" target ="_blank"><img src="https://raw.githubusercontent.com/escapingyouth/escapingyouth/main/Icons/reddit.svg" alt=" Michael Appiah | Reddit" width="50px" height="50px"/></a>
 </section>
 
 
