@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <!-- LANGUAGES AND TOOLS -->
 <section>
 	<div>
-	  <h1> <img src="https://raw.githubusercontent.com/escapingyouth/escapingyouth/main/Icons/rocket.svg" width="40px" height="23px"/>Languages and Tools </h1>
+	  <h1>🚀 Languages and Tools </h1>
 	</div>
 	<div>
                <img src="https://raw.githubusercontent.com/escapingyouth/escapingyouth/main/Icons/html.svg" width="55px" height="55px"/>
@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 
 
 <!-- MY GITHUB STATS -->
-<h1>My Github Stats</h1>
+<h1>📊 My Github Stats 🏆</h1>
 
 <a href="https://github.com/escapingyouth/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=escapingyouth&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true" width ="1000px"/>
