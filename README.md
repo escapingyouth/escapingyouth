@@ -1,7 +1,6 @@
-### Hi there 👋
+<h1> Hi there, I'm Michael</h1>
 
-<!--
-**escapingyouth/escapingyouth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
@@ -13,5 +12,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
-![javascript](https://user-images.githubusercontent.com/79151294/164716238-b744cd72-e29e-4526-9b12-344a87567de5.svg
+
+<h1>Languages and Tools<h1>
