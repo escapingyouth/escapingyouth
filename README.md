@@ -35,6 +35,9 @@ Here are some ideas to get you started:
 	</div>
 </section>
 
+<p>&nbsp;  </p>
+
+
 
 
 <!-- MY GITHUB STATS -->
@@ -47,7 +50,15 @@ Here are some ideas to get you started:
 <a href="https://github.com/escapingyouth/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=escapingyouth&layout=compact&theme=github_dark&hide_border=true" width ="1000px"/>
 </a>
-
 <p><b>NOTE:</b> Top Languages does not indicate my skill level or anything like that; it's a GitHub metric to determine which languages have the most code on GitHub. It's a new feature of github-readme-stats.<p>
+
+<p>&nbsp;  </p>
+
+<a href="https://github.com/escapingyouth/github-readme-activity-graph">
+  <img align="center" src="https://activity-graph.herokuapp.com/graph?username=escapingyouth&theme=react-dark" width ="1200px"/>
+</a>
+
+
+
 
 	
