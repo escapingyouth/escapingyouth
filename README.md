@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <!-- LANGUAGES AND TOOLS -->
 <section>
 	<div>
-	  <h1>🚀 Languages and Tools </h1>
+	  <h2>🚀 Languages and Tools </h1>
 	</div>
 	<div>
                <img src="https://raw.githubusercontent.com/escapingyouth/escapingyouth/main/Icons/html.svg" width="55px" height="55px"/>
@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 
 <!-- MY GITHUB STATS -->
 <section>
-<h1>📊 My Github Stats 🏆</h1>
+<h2>📊 My Github Stats 🏆</h2>
 <a href="https://github.com/escapingyouth/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=escapingyouth&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true" width ="1000px"/></a>
 
 <a href="https://github.com/escapingyouth/github-readme-stats">
@@ -59,7 +59,8 @@ Here are some ideas to get you started:
 
 <!--CONNECT WITH ME-->
 <section>
-	<h1>Connect with me 🤝</h1>
+	<h2>Connect with me 🤝</h2>
+	<a href="https://www.linkedin.com/in/yushi95/"><img src="https://raw.githubusercontent.com/escapingyouth/escapingyouth/main/Icons/linkedin.svg" alt=" Michael Appiah | LinkedIn" width="21px"/></a>
 </section>
 
 
