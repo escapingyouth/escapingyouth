@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <!-- LANGUAGES AND TOOLS -->
 <section>
 	<div>
-	  <h1> <img src="https://raw.githubusercontent.com/escapingyouth/escapingyouth/main/Icons/rocket.svg" width="40px" height="23px"/> Languages and Tools </h1>
+	  <h1> <img src="https://raw.githubusercontent.com/escapingyouth/escapingyouth/main/Icons/rocket.svg" width="40px" height="23px"/>Languages and Tools </h1>
 	</div>
 	<div>
                <img src="https://raw.githubusercontent.com/escapingyouth/escapingyouth/main/Icons/html.svg" width="55px" height="55px"/>
@@ -48,9 +48,9 @@ Here are some ideas to get you started:
 </a>
 
 <a href="https://github.com/escapingyouth/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=escapingyouth&layout=compact&theme=github_dark&hide_border=true" width ="1000px"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=escapingyouth&layout=compact&theme=github_dark&hide_border=true" width ="950px"/>
 </a>
-<p><b>NOTE:</b> Top Languages does not indicate my skill level or anything like that; it's a GitHub metric to determine which languages have the most code on GitHub. It's a new feature of github-readme-stats.<p>
+<p><b>NOTE:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.<p>
 
 <p>&nbsp;  </p>
 
