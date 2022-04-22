@@ -36,7 +36,6 @@ Here are some ideas to get you started:
 </section>
 
 <!-- MY GITHUB STATS -->
-<section>
-	[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=escapingyouth&theme=github_dark)](https://github.com/escapingyouth/github-readme-stats)
-</section>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=escapingyouth&show_icons=true&theme=github_dark)](https://github.com/escapingyouth/github-readme-stats)
+
 	
