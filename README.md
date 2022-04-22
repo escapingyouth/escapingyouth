@@ -1,4 +1,4 @@
-<h1> Hi there, I'm Michael</h1>
+<h1> Hi there <img src ="https://user-images.githubusercontent.com/79151294/164762206-b90b4e56-58ac-4d89-baf2-f9132ccabcdb.gif" width="30px" height:"30px">, I'm Michael</h1>
 
 
 
