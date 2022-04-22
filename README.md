@@ -35,7 +35,19 @@ Here are some ideas to get you started:
 	</div>
 </section>
 
+
+
 <!-- MY GITHUB STATS -->
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=escapingyouth&show_icons=true&theme=github_dark)](https://github.com/escapingyouth/github-readme-stats)
+<h1>My Github Stats</h1>
+
+<a href="https://github.com/escapingyouth/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=escapingyouth&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true" width ="1000px"/>
+</a>
+
+<a href="https://github.com/escapingyouth/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=escapingyouth&layout=compact&theme=github_dark&hide_border=true" width ="1000px"/>
+</a>
+
+<p><b>NOTE:</b> Top Languages does not indicate my skill level or anything like that; it's a GitHub metric to determine which languages have the most code on GitHub. It's a new feature of github-readme-stats.<p>
 
 	
