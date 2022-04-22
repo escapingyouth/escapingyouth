@@ -60,7 +60,7 @@ Here are some ideas to get you started:
 <!--CONNECT WITH ME-->
 <section>
 	<h2>Connect with me 🤝</h2>
-	<a href="https://www.linkedin.com/in/yushi95/"><img src="https://raw.githubusercontent.com/escapingyouth/escapingyouth/main/Icons/linkedin.svg" alt=" Michael Appiah | LinkedIn" width="21px"/></a>
+	<a href="https://www.linkedin.com/in/michael-kwame-appiah/"><img src="https://raw.githubusercontent.com/escapingyouth/escapingyouth/main/Icons/linkedin.svg" alt=" Michael Appiah | LinkedIn" width="50px" height="50px"/></a>
 </section>
 
 
