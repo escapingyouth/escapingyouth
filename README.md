@@ -41,11 +41,9 @@ Here are some ideas to get you started:
 
 
 <!-- MY GITHUB STATS -->
+<section>
 <h1>📊 My Github Stats 🏆</h1>
-
-<a href="https://github.com/escapingyouth/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=escapingyouth&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true" width ="1000px"/>
-</a>
+<a href="https://github.com/escapingyouth/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=escapingyouth&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true" width ="1000px"/></a>
 
 <a href="https://github.com/escapingyouth/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=escapingyouth&layout=compact&theme=github_dark&hide_border=true" width ="950px"/>
@@ -57,7 +55,12 @@ Here are some ideas to get you started:
 <a href="https://github.com/escapingyouth/github-readme-activity-graph">
   <img align="center" src="https://activity-graph.herokuapp.com/graph?username=escapingyouth&theme=react-dark&hide_border=true" width ="1200px"/>
 </a>
+</section>
 
+<!--CONNECT WITH ME-->
+<section>
+	<h1>Connect with me 🤝</h1>
+</section>
 
 
 
