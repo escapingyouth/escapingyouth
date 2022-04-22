@@ -43,10 +43,10 @@ Here are some ideas to get you started:
 <!-- MY GITHUB STATS -->
 <section>
 <h2>📊 My Github Stats 🏆</h2>
-<a href="https://github.com/escapingyouth/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=escapingyouth&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true" width ="1000px"/></a>
+<a href="https://github.com/escapingyouth/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=escapingyouth&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true" width ="950px"/></a>
 
 <a href="https://github.com/escapingyouth/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=escapingyouth&layout=compact&theme=github_dark&hide_border=true" width ="950px"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=escapingyouth&layout=compact&theme=github_dark&hide_border=true" width ="900px"/>
 </a>
 <p><b>NOTE:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.<p>
 
