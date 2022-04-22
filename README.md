@@ -24,9 +24,13 @@ Here are some ideas to get you started:
 	       <img src="https://raw.githubusercontent.com/escapingyouth/escapingyouth/main/Icons/css3.svg" width="65px" height="65px"/>
 	       <img src="https://raw.githubusercontent.com/escapingyouth/escapingyouth/main/Icons/javascript.svg" width="65px" height="65px"/>
 	       <img src="https://raw.githubusercontent.com/escapingyouth/escapingyouth/main/Icons/react.svg" width="65px" height="65px"/>
-	       <img src="https://raw.githubusercontent.com/escapingyouth/escapingyouth/main/Icons/bootstrap.svg" width="65px" height="65px"/>
-	       <img src="https://raw.githubusercontent.com/escapingyouth/escapingyouth/main/Icons/figma.svg" width="65px" height="65px"/>
-	       <img src="https://raw.githubusercontent.com/escapingyouth/escapingyouth/main/Icons/postman.svg" width="65px" height="65px"/>
-	       <img src="https://raw.githubusercontent.com/escapingyouth/escapingyouth/main/Icons/git.svg" width="65px" height="65px"/>
+		 <span>&nbsp;</span>
+	       <img src="https://raw.githubusercontent.com/escapingyouth/escapingyouth/main/Icons/bootstrap.svg" width="60px" height="60px"/>
+		 <span>&nbsp;  </span>
+	       <img src="https://raw.githubusercontent.com/escapingyouth/escapingyouth/main/Icons/figma.svg" width="60px" height="60px"/>
+		 <span>&nbsp;  </span>
+	       <img src="https://raw.githubusercontent.com/escapingyouth/escapingyouth/main/Icons/postman.svg" width="60px" height="60px"/>
+		 <span>&nbsp;  </span>
+	       <img src="https://raw.githubusercontent.com/escapingyouth/escapingyouth/main/Icons/git.svg" width="60px" height="60px"/>
 	</div>
 </section>
