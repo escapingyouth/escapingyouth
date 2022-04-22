@@ -17,55 +17,16 @@ Here are some ideas to get you started:
 
 <section>
 	<div>
-		<h1>
-			<img
-				src="https://raw.githubusercontent.com/escapingyouth/escapingyouth/main/Icons/tools.svg"
-				width="30px"
-				height="30px"
-				style="margin-right:50px;"
-			/>Languages and Tools
-		</h1>
+	  <h1> <img src="https://raw.githubusercontent.com/escapingyouth/escapingyouth/main/Icons/tools.svg" width="30px" height="30px"/> Languages and Tools </h1>
 	</div>
 	<div>
-		<img
-			src="https://raw.githubusercontent.com/escapingyouth/escapingyouth/main/Icons/html.svg"
-			width="40px"
-			height="40px"
-		/>
-		<img
-			src="https://raw.githubusercontent.com/escapingyouth/escapingyouth/main/Icons/css3.svg"
-			width="40px"
-			height="40px"
-		/>
-		<img
-			src="https://raw.githubusercontent.com/escapingyouth/escapingyouth/main/Icons/javascript.svg"
-			width="40px"
-			height="40px"
-		/>
-		<img
-			src="https://raw.githubusercontent.com/escapingyouth/escapingyouth/main/Icons/react.svg"
-			width="40px"
-			height="40px"
-		/>
-		<img
-			src="https://raw.githubusercontent.com/escapingyouth/escapingyouth/main/Icons/bootstrap.svg"
-			width="40px"
-			height="40px"
-		/>
-		<img
-			src="https://raw.githubusercontent.com/escapingyouth/escapingyouth/main/Icons/figma.svg"
-			width="40px"
-			height="40px"
-		/>
-		<img
-			src="https://raw.githubusercontent.com/escapingyouth/escapingyouth/main/Icons/postman.svg"
-			width="40px"
-			height="40px"
-		/>
-		<img
-			src="https://raw.githubusercontent.com/escapingyouth/escapingyouth/main/Icons/git.svg"
-			width="40px"
-			height="40px"
-		/>
+               <img src="https://raw.githubusercontent.com/escapingyouth/escapingyouth/main/Icons/html.svg" width="65px" height="65px"/>
+	       <img src="https://raw.githubusercontent.com/escapingyouth/escapingyouth/main/Icons/css3.svg" width="65px" height="65px"/>
+	       <img src="https://raw.githubusercontent.com/escapingyouth/escapingyouth/main/Icons/javascript.svg" width="65px" height="65px"/>
+	       <img src="https://raw.githubusercontent.com/escapingyouth/escapingyouth/main/Icons/react.svg" width="65px" height="65px"/>
+	       <img src="https://raw.githubusercontent.com/escapingyouth/escapingyouth/main/Icons/bootstrap.svg" width="65px" height="65px"/>
+	       <img src="https://raw.githubusercontent.com/escapingyouth/escapingyouth/main/Icons/figma.svg" width="65px" height="65px"/>
+	       <img src="https://raw.githubusercontent.com/escapingyouth/escapingyouth/main/Icons/postman.svg" width="65px" height="65px"/>
+	       <img src="https://raw.githubusercontent.com/escapingyouth/escapingyouth/main/Icons/git.svg" width="65px" height="65px"/>
 	</div>
 </section>
