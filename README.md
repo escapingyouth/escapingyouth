@@ -20,17 +20,17 @@ Here are some ideas to get you started:
 	  <h1> <img src="https://raw.githubusercontent.com/escapingyouth/escapingyouth/main/Icons/tools.svg" width="30px" height="30px"/> Languages and Tools </h1>
 	</div>
 	<div>
-               <img src="https://raw.githubusercontent.com/escapingyouth/escapingyouth/main/Icons/html.svg" width="65px" height="65px"/>
-	       <img src="https://raw.githubusercontent.com/escapingyouth/escapingyouth/main/Icons/css3.svg" width="65px" height="65px"/>
-	       <img src="https://raw.githubusercontent.com/escapingyouth/escapingyouth/main/Icons/javascript.svg" width="65px" height="65px"/>
-	       <img src="https://raw.githubusercontent.com/escapingyouth/escapingyouth/main/Icons/react.svg" width="65px" height="65px"/>
-		 <span>&nbsp;</span>
-	       <img src="https://raw.githubusercontent.com/escapingyouth/escapingyouth/main/Icons/bootstrap.svg" width="60px" height="60px"/>
+               <img src="https://raw.githubusercontent.com/escapingyouth/escapingyouth/main/Icons/html.svg" width="55px" height="55px"/>
+	       <img src="https://raw.githubusercontent.com/escapingyouth/escapingyouth/main/Icons/css3.svg" width="55px" height="55px"/>
+	       <img src="https://raw.githubusercontent.com/escapingyouth/escapingyouth/main/Icons/javascript.svg" width="55px" height="55px"/>
+	       <img src="https://raw.githubusercontent.com/escapingyouth/escapingyouth/main/Icons/react.svg" width="55px" height="55px"/>
 		 <span>&nbsp;  </span>
-	       <img src="https://raw.githubusercontent.com/escapingyouth/escapingyouth/main/Icons/figma.svg" width="60px" height="60px"/>
+	       <img src="https://raw.githubusercontent.com/escapingyouth/escapingyouth/main/Icons/bootstrap.svg" width="50px" height="50px"/>
 		 <span>&nbsp;  </span>
-	       <img src="https://raw.githubusercontent.com/escapingyouth/escapingyouth/main/Icons/postman.svg" width="60px" height="60px"/>
+	       <img src="https://raw.githubusercontent.com/escapingyouth/escapingyouth/main/Icons/figma.svg" width="50px" height="50px"/>
 		 <span>&nbsp;  </span>
-	       <img src="https://raw.githubusercontent.com/escapingyouth/escapingyouth/main/Icons/git.svg" width="60px" height="60px"/>
+	       <img src="https://raw.githubusercontent.com/escapingyouth/escapingyouth/main/Icons/postman.svg" width="50px" height="50px"/>
+		 <span>&nbsp;  </span>
+	       <img src="https://raw.githubusercontent.com/escapingyouth/escapingyouth/main/Icons/git.svg" width="60px" height="50px"/>
 	</div>
 </section>
