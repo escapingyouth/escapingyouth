@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <!-- LANGUAGES AND TOOLS -->
 <section>
 	<div>
-	  <h1> <img src="https://raw.githubusercontent.com/escapingyouth/escapingyouth/main/Icons/tools.svg" width="30px" height="30px"/> Languages and Tools </h1>
+	  <h1> <img src="https://raw.githubusercontent.com/escapingyouth/escapingyouth/main/Icons/rocket.svg" width="30px" height="30px"/> Languages and Tools </h1>
 	</div>
 	<div>
                <img src="https://raw.githubusercontent.com/escapingyouth/escapingyouth/main/Icons/html.svg" width="55px" height="55px"/>
