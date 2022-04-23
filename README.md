@@ -9,13 +9,16 @@
 <section>
 	<h2>🙋‍♂️ About Me</h2>
 	
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🔭 I’m currently working on **Campgrounds Project**
+- 🌱 I’m currently learning **Node.js and MongoDB**
 - 👯 I’m looking to collaborate on **Open Source Projects**
-- 🤔 I’m looking for help with ...
 - 📫 How to reach me: **michael.k.a.amankwah@gmail.com**
 - 😄 Pronouns: **He/Him**
-- ⚡ Fun fact: ...
+- ⚡ About Me:
+	* **I enjoy watching Anime, reading Books, reading Manga, watching Football and Writing**
+	* **I love to explore and learn new things that interest me**
+	* **J'apprends la langue française**
+	* **Video games are my cartharsis!**
 
 
 </section>
