@@ -1,4 +1,4 @@
-<h1 align="center"> Hi there <img src ="https://user-images.githubusercontent.com/79151294/164762206-b90b4e56-58ac-4d89-baf2-f9132ccabcdb.gif" width="30px" height:"30px">, I'm Michael✨</h1>
+<h1 align="center"> Hi there <img src ="https://user-images.githubusercontent.com/79151294/164762206-b90b4e56-58ac-4d89-baf2-f9132ccabcdb.gif" width="30px" height:"30px">, I'm Michael </h1>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/79151294/164896893-6db26991-6990-4a90-8296-a5e4ca155b2a.gif">
@@ -15,9 +15,9 @@
 - 📫 How to reach me: **michael.k.a.amankwah@gmail.com**
 - 😄 Pronouns: **He/Him**
 - ⚡ About Me:
-	* **I enjoy watching Anime, reading Books, reading Manga, watching Football and Writing**
-	* **I love to explore and learn new things that interest me**
-	* **J'apprends la langue française**
+	* **I enjoy watching Anime, reading Books, reading Manga, watching Football and Writing 🪄**
+	* **I love to explore and learn new things that interest me 💫**
+	* **J'apprends la langue française 🇨🇵**
 	* **Video games are my cartharsis! 🎮**
 
 
