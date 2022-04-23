@@ -18,10 +18,10 @@
 - ⚡ About Me:
 
 
-	* **I enjoy watching Anime, reading Books, reading Manga, watching Football and Writing 🪄**
-	* **I love to explore and learn new things that interest me 💫**
-	* **J'apprends la langue française 🇨🇵**
-	* **Video games are my cartharsis! 🎮**
+	* **I enjoy watching Anime, reading Books, reading Manga and watching Football**
+	* **I love to explore and learn new things that interest me**
+	* **J'apprends la langue française**
+	* **Video games are my cartharsis!**
 
 
 </section>
