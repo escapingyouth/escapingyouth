@@ -21,7 +21,7 @@
 	* **I enjoy watching Anime, reading Books, reading Manga and watching Football**
 	* **I love to explore and learn new things that interest me**
 	* **J'apprends la langue française**
-	* **Video games are my cartharsis!**
+	* **Music is my cartharsis!**
 
 
 </section>
