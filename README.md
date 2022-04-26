@@ -18,7 +18,7 @@
 - ⚡ About Me:
 
 
-	* **I enjoy watching Anime, reading Books, reading Manga and watching Football**
+	* **I enjoy Anime, Reading, Football and Music**
 	* **I love to explore and learn new things that interest me**
 	* **J'apprends la langue française**
 	* **Music is my cartharsis!**
