@@ -4,6 +4,8 @@
   <img src="https://user-images.githubusercontent.com/79151294/164945712-d629bafa-b5d4-419f-80fd-31574345add4.svg" width ="950px" height="500px">
 </p>
 
+<h2 align="center">I am a passionate Full Stack developer from Ghana</h2>
+
 
 <!-- ABOUT ME -->
 <section>
@@ -18,10 +20,10 @@
 - ⚡ About Me:
 
 
-	* **I enjoy Anime, Reading, Football and Music**
+	* **I enjoy anime, reading, documentaries, football and music**
 	* **I love to explore and learn new things that interest me**
 	* **J'apprends la langue française**
-	* **Music is my cartharsis!**
+	* **I'm very observant and analytical**
 
 
 </section>
