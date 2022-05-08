@@ -4,7 +4,7 @@
   <img src="https://user-images.githubusercontent.com/79151294/164945712-d629bafa-b5d4-419f-80fd-31574345add4.svg" width ="950px" height="500px">
 </p>
 
-<h3 align="center">I'm a passionate Full Stack developer from Ghana</h3>
+<b align="center">I'm a passionate Full Stack developer from Ghana</b>
 
 
 <!-- ABOUT ME -->
