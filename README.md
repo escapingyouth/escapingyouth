@@ -4,7 +4,7 @@
   <img src="https://user-images.githubusercontent.com/79151294/164945712-d629bafa-b5d4-419f-80fd-31574345add4.svg" width ="950px" height="500px">
 </p>
 
-<h2 align="center">I am a passionate Full Stack developer from Ghana</h2>
+<h3 align="center">I am a passionate Full Stack developer from Ghana</h3>
 
 
 <!-- ABOUT ME -->
@@ -61,10 +61,9 @@
 <!-- MY GITHUB STATS -->
 <section>
    <h2>📊 My Github Stats 🏆</h2>
-   <p align="center"><ahref="https://github.com/escapingyouth/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=escapingyouth&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true" width ="850px"/></a></p>
-   <p>&nbsp;  </p>
+   <p align="center"><ahref="https://github.com/escapingyouth/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=escapingyouth&show_icons=true&theme=algolia&hide_border=true&include_all_commits=true" width ="900px"/></a></p>
    <p align="center"><a href="https://github.com/escapingyouth/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=escapingyouth&layout=compact&theme=github_dark&hide_border=true" width ="800px"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=escapingyouth&layout=compact&theme=algolia&hide_border=true" width ="900px"/>
    </a></p>
    <p>&nbsp;  </p>
    <p align="center"><b>NOTE:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.<p>
@@ -72,7 +71,7 @@
    <p>&nbsp;  </p>
 
    <p align="center"><a href="https://github.com/escapingyouth/github-readme-activity-graph">
-    <img align="center" src="https://activity-graph.herokuapp.com/graph?username=escapingyouth&theme=react-dark&hide_border=true" width ="1200px"/>
+    <img align="center" src="https://activity-graph.herokuapp.com/graph?username=escapingyouth&bg_color=050F2C&color=00AEFF&line=00AEFF&point=ffffff&hide_border=true" width ="1200px"/>
    </a></p>
 </section>
 
