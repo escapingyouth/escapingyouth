@@ -12,8 +12,8 @@
 	<h2>🙋‍♂️ About Me</h2>
 
 	
-- 🔭 I’m currently working on **Campgrounds Project**
-- 🌱 I’m currently learning **Node.js and MongoDB**
+- 🔭 I’m currently working on **Improving my CSS skills**
+- 🌱 I’m currently learning **CSS and Sass**
 - 👯 I’m looking to collaborate on **Open Source Projects**
 - 📫 How to reach me: **michael.k.a.amankwah@gmail.com**
 - 😄 Pronouns: **He/Him**
