@@ -4,8 +4,11 @@
   <img src="https://user-images.githubusercontent.com/79151294/164945712-d629bafa-b5d4-419f-80fd-31574345add4.svg" width ="950px" height="500px">
 </p>
 
-<h3 align="center">I'm a passionate Full Stack developer from Ghana</h3>
-
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src=https://readme-typing-svg.herokuapp.com?size=25&color=00AEFF&width=470&height=60&lines=I'm+a+passionate+and+ambitious;web+developer+from+Ghana;with+2%2B+years+of+experience>
+  </a>
+</p>
 
 <!-- ABOUT ME -->
 <section>
