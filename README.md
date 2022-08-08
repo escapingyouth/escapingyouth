@@ -48,6 +48,8 @@
 		 <span>&nbsp;  </span>
 	       <img src="https://raw.githubusercontent.com/escapingyouth/escapingyouth/main/Icons/bootstrap.svg" width="50px" height="50px"/>
 		 <span>&nbsp;  </span>
+	       <img src="https://raw.githubusercontent.com/escapingyouth/escapingyouth/main/Icons/sass.svg" width="55px" height="55px"/>
+	         <span>&nbsp;  </span>
 	       <img src="https://raw.githubusercontent.com/escapingyouth/escapingyouth/main/Icons/figma.svg" width="50px" height="50px"/>
 		 <span>&nbsp;  </span>
 	       <img src="https://raw.githubusercontent.com/escapingyouth/escapingyouth/main/Icons/postman.svg" width="50px" height="50px"/>
