@@ -42,6 +42,7 @@
 	</div>
 	<div>
                <img src="https://raw.githubusercontent.com/escapingyouth/escapingyouth/main/Icons/html.svg" width="55px" height="55px"/>
+	       <img src="https://raw.githubusercontent.com/escapingyouth/escapingyouth/main/Icons/ejs.svg" width="55px" height="55px"/>
 	       <img src="https://raw.githubusercontent.com/escapingyouth/escapingyouth/main/Icons/css3.svg" width="55px" height="55px"/>
 	       <img src="https://raw.githubusercontent.com/escapingyouth/escapingyouth/main/Icons/javascript.svg" width="55px" height="55px"/>
 	        <img src="https://raw.githubusercontent.com/escapingyouth/escapingyouth/main/Icons/typescript.svg" width="55px" height="55px"/>
