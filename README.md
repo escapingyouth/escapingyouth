@@ -10,6 +10,7 @@
   </a>
 </p>
 
+
 <!-- ABOUT ME -->
 <section>
 	<h2>🙋‍♂️ About Me</h2>
@@ -80,8 +81,9 @@
    <p align="center"><b>NOTE:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.<p>
    <p>&nbsp;</p>	
    <p align="center"><a href="https://github.com/escapingyouth/github-readme-activity-graph">
-    <img align="center" src="https://activity-graph.herokuapp.com/graph?username=escapingyouth&bg_color=050F2C&color=00AEFF&line=00AEFF&point=ffffff&hide_border=true" width ="1200px"/>
+    <img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=escapingyouth&bg_color=050F2C&color=00AEFF&line=00AEFF&point=ffffff&hide_border=true" width ="1200px"/>
    </a></p>
+  
 </section>
 
 <!--CONNECT WITH ME-->
