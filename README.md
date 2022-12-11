@@ -10,7 +10,7 @@
   </a>
 </p>
 
-
+![](https://komarev.com/ghpvc/?username=escapingyouth&style=for-the-badge&color=050F2C)
 <!-- ABOUT ME -->
 <section>
 	<h2>🙋‍♂️ About Me</h2>
