@@ -39,7 +39,7 @@
 <!-- LANGUAGES AND TOOLS -->
 <section>
 	<div>
-	  <h2>🚀 Languages and Tools </h1>
+	  <h2>🚀 Languages and Tools  <img align="center" src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h1> 
 	</div>
 	<div>
                <img src="https://raw.githubusercontent.com/escapingyouth/escapingyouth/main/Icons/html.svg" width="55px" height="55px"/>
