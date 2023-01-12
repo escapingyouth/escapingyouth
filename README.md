@@ -58,6 +58,7 @@
 	       <img src="https://raw.githubusercontent.com/escapingyouth/escapingyouth/main/Icons/postman.svg" width="50px" height="50px"/>
 		 <span>&nbsp;  </span>
 	       <img src="https://raw.githubusercontent.com/escapingyouth/escapingyouth/main/Icons/git.svg" width="60px" height="50px"/>
+	       <img src="https://raw.githubusercontent.com/escapingyouth/escapingyouth/main/Icons/firebase.svg" width="60px" height="50px"/>
 	</div>
 	<p>&nbsp;  </p>
  <p align="center"><a href="https://git.io/streak-stats"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=escapingyouth&background=050F2C&hide_border=true&stroke=050F2C&ring=00AEFF&fire=00AEFF&currStreakLabel=00AEFF&currStreakNum=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=adb5bd" width ="900px"/></a></p>
