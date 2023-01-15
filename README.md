@@ -74,10 +74,11 @@
 <!-- MY GITHUB STATS -->
 <section>
    <h2>📊 My Github Stats 🏆</h2>
-   <p align="center"><a href="https://github.com/escapingyouth/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=escapingyouth&show_icons=true&theme=algolia&hide_border=true&include_all_commits=true" width ="900px"/></a></p>
-   <p align="center"><a href="https://github.com/escapingyouth/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=escapingyouth&layout=compact&theme=algolia&hide_border=true" width ="900px"/>
-   </a></p>
+   <p align="center"><a href="https://github.com/escapingyouth"><img align="center" src="https://github-readme-stats.vercel.app/api?username=escapingyouth&show_icons=true&count_private=true&theme=algolia&hide_border=true&include_all_commits=true"  width = "900px"/></a></p>
+   
+   <p align="center"><a href="https://github.com/escapingyouth"><img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=escapingyouth&langs_count=8&count_private=true&layout=compact&theme=algolia&hide_border=true" width="900px"/></a></p>
+	    
+	     
    <p>&nbsp;</p>
    <p align="center"><b>NOTE:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.<p>
    <p>&nbsp;</p>	
