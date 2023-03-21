@@ -17,7 +17,7 @@
 
 	
 - 🔭 I’m currently working on **a few projects**
-- 🌱 I’m currently learning **Typescript**
+- 🌱 I’m currently learning **C++**
 - 👯 I’m looking to collaborate on **Open Source Projects**
 - 📫 How to reach me: **michael.k.a.amankwah@gmail.com**
 - 😄 Pronouns: **He/Him**
