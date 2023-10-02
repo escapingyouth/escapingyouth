@@ -50,6 +50,8 @@
 	       <img src="https://raw.githubusercontent.com/escapingyouth/escapingyouth/main/Icons/c++.svg" width="55px" height="55px"/>
 	       <img src="https://raw.githubusercontent.com/escapingyouth/escapingyouth/main/Icons/react.svg" width="55px" height="55px"/>
 		 <span>&nbsp;  </span>
+	       <img src="https://raw.githubusercontent.com/escapingyouth/escapingyouth/main/Icons/redux.svg" width="55px" height="55px"/>
+		 <span>&nbsp;  </span>
 	       <img src="https://raw.githubusercontent.com/escapingyouth/escapingyouth/main/Icons/bootstrap.svg" width="50px" height="50px"/>
 		 <span>&nbsp;  </span>
 	       <img src="https://raw.githubusercontent.com/escapingyouth/escapingyouth/main/Icons/sass.svg" width="55px" height="55px"/>
