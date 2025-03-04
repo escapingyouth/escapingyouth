@@ -33,30 +33,30 @@
 </h2>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/escapingyouth/escapingyouth/main/Icons/html.svg" width="55px" height="55px" alt="HTML">
-  <img src="https://raw.githubusercontent.com/escapingyouth/escapingyouth/main/Icons/ejs.svg" width="55px" height="55px" alt="EJS">
-  <img src="https://raw.githubusercontent.com/escapingyouth/escapingyouth/main/Icons/css3.svg" width="55px" height="55px" alt="CSS3">
-  <img src="https://raw.githubusercontent.com/escapingyouth/escapingyouth/main/Icons/bootstrap.svg" width="50px" height="50px" alt="Bootstrap">
-  <img src="https://raw.githubusercontent.com/escapingyouth/escapingyouth/main/Icons/sass.svg" width="55px" height="55px" alt="Sass">
-  <img src="https://raw.githubusercontent.com/escapingyouth/escapingyouth/main/Icons/tailwindcss.svg" width="55px" height="55px" alt="Tailwind CSS">
-  <img src="https://raw.githubusercontent.com/escapingyouth/escapingyouth/main/Icons/javascript.svg" width="55px" height="55px" alt="JavaScript">
-  <img src="https://raw.githubusercontent.com/escapingyouth/escapingyouth/main/Icons/node-js.svg" width="55px" height="55px" alt="Node.js">
-  <img src="https://raw.githubusercontent.com/escapingyouth/escapingyouth/main/Icons/express.svg" width="55px" height="55px" alt="Express">
-  <img src="https://raw.githubusercontent.com/escapingyouth/escapingyouth/main/Icons/typescript.svg" width="55px" height="55px" alt="TypeScript">
-  <img src="https://raw.githubusercontent.com/escapingyouth/escapingyouth/main/Icons/c++.svg" width="55px" height="55px" alt="C++">
-  <img src="https://raw.githubusercontent.com/escapingyouth/escapingyouth/main/Icons/react.svg" width="55px" height="55px" alt="React">
-  <img src="https://raw.githubusercontent.com/escapingyouth/escapingyouth/main/Icons/redux.svg" width="55px" height="55px" alt="Redux">
-  <img src="https://raw.githubusercontent.com/escapingyouth/escapingyouth/main/Icons/react-native.svg" width="55px" height="55px" alt="React Native">
-  <img src="https://raw.githubusercontent.com/escapingyouth/escapingyouth/main/Icons/postgresql.svg" width="55px" height="55px" alt="PostgreSQL">
-  <img src="https://raw.githubusercontent.com/escapingyouth/escapingyouth/main/Icons/mongodb.svg" width="55px" height="55px" alt="MongoDB">
-  <img src="https://raw.githubusercontent.com/escapingyouth/escapingyouth/main/Icons/sequelize.svg" width="55px" height="55px" alt="Sequelize">
-  <img src="https://raw.githubusercontent.com/escapingyouth/escapingyouth/main/Icons/aws.svg" width="50px" height="65px" alt="AWS">
-  <img src="https://raw.githubusercontent.com/escapingyouth/escapingyouth/main/Icons/postman.svg" width="50px" height="50px" alt="Postman">
-  <img src="https://raw.githubusercontent.com/escapingyouth/escapingyouth/main/Icons/git.svg" width="60px" height="50px" alt="Git">
-  <img src="https://raw.githubusercontent.com/escapingyouth/escapingyouth/main/Icons/docker.svg" width="60px" height="50px" alt="Docker">
-  <img src="https://raw.githubusercontent.com/escapingyouth/escapingyouth/main/Icons/firebase.svg" width="60px" height="50px" alt="Firebase">
-  <img src="https://raw.githubusercontent.com/escapingyouth/escapingyouth/main/Icons/jest.svg" width="60px" height="50px" alt="Jest">
-  <img src="https://raw.githubusercontent.com/escapingyouth/escapingyouth/main/Icons/figma.svg" width="50px" height="50px" alt="Figma">
+  <img src="https://raw.githubusercontent.com/escapingyouth/escapingyouth/main/Icons/html.svg" height="50px" alt="HTML">
+  <img src="https://raw.githubusercontent.com/escapingyouth/escapingyouth/main/Icons/ejs.svg"  height="50px" alt="EJS">
+  <img src="https://raw.githubusercontent.com/escapingyouth/escapingyouth/main/Icons/css3.svg" height="50px" alt="CSS3">
+  <img src="https://raw.githubusercontent.com/escapingyouth/escapingyouth/main/Icons/bootstrap.svg" height="50px" alt="Bootstrap">
+  <img src="https://raw.githubusercontent.com/escapingyouth/escapingyouth/main/Icons/sass.svg" height="50px" alt="Sass">
+  <img src="https://raw.githubusercontent.com/escapingyouth/escapingyouth/main/Icons/tailwindcss.svg" height="40px" alt="Tailwind CSS">
+  <img src="https://raw.githubusercontent.com/escapingyouth/escapingyouth/main/Icons/javascript.svg" height="50px" alt="JavaScript">
+  <img src="https://raw.githubusercontent.com/escapingyouth/escapingyouth/main/Icons/node-js.svg" height="50px" alt="Node.js">
+  <img src="https://raw.githubusercontent.com/escapingyouth/escapingyouth/main/Icons/express.svg" height="50px" alt="Express">
+  <img src="https://raw.githubusercontent.com/escapingyouth/escapingyouth/main/Icons/typescript.svg" height="50px" alt="TypeScript">
+  <img src="https://raw.githubusercontent.com/escapingyouth/escapingyouth/main/Icons/c++.svg" height="55px" alt="C++">
+  <img src="https://raw.githubusercontent.com/escapingyouth/escapingyouth/main/Icons/react.svg" height="55px" alt="React">
+  <img src="https://raw.githubusercontent.com/escapingyouth/escapingyouth/main/Icons/redux.svg" height="55px" alt="Redux">
+  <img src="https://raw.githubusercontent.com/escapingyouth/escapingyouth/main/Icons/react-native.svg" height="55px" alt="React Native">
+  <img src="https://raw.githubusercontent.com/escapingyouth/escapingyouth/main/Icons/postgresql.svg" height="55px" alt="PostgreSQL">
+  <img src="https://raw.githubusercontent.com/escapingyouth/escapingyouth/main/Icons/mongodb.svg" height="55px" alt="MongoDB">
+  <img src="https://raw.githubusercontent.com/escapingyouth/escapingyouth/main/Icons/sequelize.svg" height="65px" alt="Sequelize">
+  <img src="https://raw.githubusercontent.com/escapingyouth/escapingyouth/main/Icons/aws.svg" height="40px" alt="AWS">
+  <img src="https://raw.githubusercontent.com/escapingyouth/escapingyouth/main/Icons/postman.svg" height="45px" alt="Postman">
+  <img src="https://raw.githubusercontent.com/escapingyouth/escapingyouth/main/Icons/git.svg" height="45px" alt="Git">
+  <img src="https://raw.githubusercontent.com/escapingyouth/escapingyouth/main/Icons/docker.svg" height="45px" alt="Docker">
+  <img src="https://raw.githubusercontent.com/escapingyouth/escapingyouth/main/Icons/firebase.svg" height="55px" alt="Firebase">
+  <img src="https://raw.githubusercontent.com/escapingyouth/escapingyouth/main/Icons/jest.svg" height="55px" alt="Jest">
+  <img src="https://raw.githubusercontent.com/escapingyouth/escapingyouth/main/Icons/figma.svg" height="45px" alt="Figma">
 </div>
 
 
@@ -87,7 +87,7 @@
 
 <p align="center">
   <a href="https://github.com/escapingyouth/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=escapingyouth&theme=react-dark" width="1200px" alt="Activity Graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=escapingyouth&theme=github-dark" width="1200px" alt="Activity Graph">
   </a>
 </p>
 
