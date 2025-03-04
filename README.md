@@ -87,7 +87,7 @@
 
 <p align="center">
   <a href="https://github.com/escapingyouth/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=escapingyouth&theme=github-dark" width="1200px" alt="Activity Graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=escapingyouth&theme=github-dark" width="900px" alt="Activity Graph">
   </a>
 </p>
 
