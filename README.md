@@ -18,12 +18,12 @@
 ## 🙋‍♂️ About Me
 
 - 🔭 I’m currently working on **a few projects**
-- 🌱 I’m currently learning **Kotlin**
+- 🌱 I’m currently learning **C#**
 - 👯 I’m looking to collaborate on **Open Source Projects**
 - 📫 How to reach me: **mke.appiah@gmail.com**
 - 😄 Pronouns: **He/Him**
 - ⚡ Fun Facts:
-  - I enjoy anime, reading, documentaries, football, and music.
+  - I enjoy anime, reading, documentaries, football, F1, and music.
   - I love to explore and learn new things that interest me.
   - J'apprends la langue française.
   - I'm very observant and analytical.
