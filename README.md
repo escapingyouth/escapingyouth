@@ -1,7 +1,7 @@
 <h1 align="center">Hi there <img src="https://user-images.githubusercontent.com/79151294/164762206-b90b4e56-58ac-4d89-baf2-f9132ccabcdb.gif" width="30" height="30">, I'm Michael</h1>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/eff677e8-1575-4c38-81a5-d3d62afa3656" width="600px">
+  <img src="https://github.com/user-attachments/assets/eff677e8-1575-4c38-81a5-d3d62afa3656" width="400px">
 </p>
 
 <p align="center">
